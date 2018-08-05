@@ -45,11 +45,15 @@ html, body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: #2c3e50;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
 }
 
 main {
   text-align: center;
-  margin-bottom: 8em;
+  flex: 1 0 auto;
 }
 
 header, footer {
@@ -72,13 +76,10 @@ footer span {
 }
 
 footer {
+  flex-shrink: 0;
   padding: 1em 1.5em;
   font-size: 1em;
   text-align: center;
-  position: fixed;
-  bottom: 0;
-  left: 0;
-  right: 0;
 }
 
 footer span:first-of-type {
