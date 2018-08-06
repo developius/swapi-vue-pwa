@@ -5,6 +5,8 @@ Progressive Web App built with Vue using data from the [Star Wars API](https://s
 
 Hosted version deployed with Now: [swapi-pwa.now.sh](https://swapi-pwa.now.sh)
 
+Video demo of the PWA on iOS 11.4: https://www.youtube.com/watch?v=-CsMLLU0hTw
+
 I have written an accompanying blog post covering how the app works and how to configure deployment of Vue apps to Now. [Check it out](https://finnian.io/blog/deploying-a-vue-pwa-to-now/)
 
 ## Build Setup
