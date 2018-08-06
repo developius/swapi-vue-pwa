@@ -1,7 +1,11 @@
 # swapi-vue-pwa
-Progressive Web App example with Vue
+Progressive Web App built with Vue using data from the [Star Wars API](https://swapi.co).
 
-> A Vue.js project
+![SWAPI PWA screenshot](https://finnian.io/blog/content/images/2018/08/SWAPI-PWA.png)
+
+Hosted version deployed with Now: [swapi-pwa.now.sh](https://swapi-pwa.now.sh)
+
+I have written an accompanying blog post covering how the app works and how to configure deployment of Vue apps to Now. [Check it out](https://finnian.io/blog/deploying-a-vue-pwa-to-now/)
 
 ## Build Setup
 
