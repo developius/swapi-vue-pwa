@@ -3,7 +3,7 @@ Progressive Web App built with Vue using data from the [Star Wars API](https://s
 
 ![SWAPI PWA screenshot](https://finnian.io/blog/content/images/2018/08/SWAPI-PWA.png)
 
-Hosted version deployed with Now: [swapi-pwa.now.sh](https://swapi-pwa.now.sh)
+Hosted version deployed with Now: [swapi.finnian.app](https://swapi.finnian.app)
 
 Video demo of the PWA on iOS 11.4: https://www.youtube.com/watch?v=-CsMLLU0hTw
 
