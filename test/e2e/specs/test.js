@@ -11,12 +11,7 @@ module.exports = {
     browser
       .url(devServer)
       .waitForElementVisible('#app', 5000)
-      .assert.elementPresent('.hello')
       .assert.elementPresent('input')
-      .assert.containsText('h1', 'Your name is')
-      .setValue('input', 'Finnian Anderson')
-      .assert.containsText('h1', 'Your name is Finnian Anderson')
-      .assert.elementCount('img', 1)
       .end()
   }
 }

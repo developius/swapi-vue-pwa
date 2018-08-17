@@ -1,0 +1,14 @@
+language: node_js
+node_js:
+  - "10"
+install:
+  - npm install
+  - npm install -g codecov
+after_script:
+  - npm run report-coverage
+env:
+  global:
+    - SAUCE_USERNAME="developius"
+    - CC_TEST_REPORTER_ID="9b0f8a7fea8537a42e55686a95276049d620f387463ef98af52142eebc19ed5f"
+addons:
+  sauce_connect: true

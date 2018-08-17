@@ -121,7 +121,7 @@ export default {
   watch: {
     query (value) {
       if (value) this.search()
-      else this.clearSelectedEntity()
+      else this.clearResults()
     },
     selectedEntity () {
       if (this.query) this.search()

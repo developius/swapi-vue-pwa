@@ -1,5 +1,9 @@
+
 # swapi-vue-pwa
 Progressive Web App built with Vue using data from the [Star Wars API](https://swapi.co).
+
+[![Build Status](https://travis-ci.com/developius/swapi-vue-pwa.svg?branch=master)](https://travis-ci.com/developius/swapi-vue-pwa) [![Dependencies](https://david-dm.org/developius/swapi-vue-pwa.svg)](https://david-dm.org/developius/swapi-vue-pwa)
+[![codecov](https://codecov.io/gh/developius/swapi-vue-pwa/branch/master/graph/badge.svg)](https://codecov.io/gh/developius/swapi-vue-pwa)
 
 ![SWAPI PWA screenshot](https://finnian.io/blog/content/images/2018/08/SWAPI-PWA.png)
 
